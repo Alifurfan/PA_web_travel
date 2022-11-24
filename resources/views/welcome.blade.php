@@ -12,26 +12,24 @@
     </div>
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img src="https://travelumroh.co.id/wp-content/uploads/2021/03/10.-Ketahui-Perbedaan-Haji-dan-Umroh-Sebelum-Menunaikannya.jpg"
+            <img src="https://wheretogoo.s3.ap-southeast-1.amazonaws.com/Assets/Footer/6.jfif"
                 class="d-block w-100" alt="..." style="opacity: 0.5; height: 1080px;">
             <div class="carousel-caption d-none d-md-block" style="opacity: 1;">
-                <h5>HAJI</h5>
-                <p>HAJI merupakan jenis ibadah yang dilakukan oleh umat muslim. Ibadah haji didahului oleh puasa asyura
-                    yang jatuh pada tanggal 10 dzulhijjah. Lama waktu ibadah haji adalah sekitar 40 hari sehingga banyak
-                    calon jamaah yang memilih agen travel untuk mengurus perjalanan mereka. Berikut beberapa contoh
-                    kalimat iklan untuk promosi agent travel haji.</p>
+                <h5>Bromo Tengger Semeru</h5>
+                <p>Taman Nasional Bromo Tengger Semeru merupakan satu-satunya kawasan konservasi di Indonesia yang memiliki lautan pasir seluas 10 km yang disebut Tengger, tempat dimana empat anak gunung berapi baru berada. 
+                    Anak gunung berapi tersebut adalah Gunung Batok (2.470 m), Gunung Kursi (2.581 m), Gunung Watangan (2.661 m), dan Gunung Widodaren (2.650 m). 
+                    Namun, dari deretan gunung tersebut, hanya Gunung Bromo lah satu-satunya yang masih aktif. Temperatur di puncak Gunung Bromo berkisar 5-18 derajat Celcius. 
+                    Bila Sobat Pesona menuju ke arah Selatan Taman, Sobat akan menemukan dataran terjal yang terbelah oleh lembah dan dihiasi dengan danau-danau yang indah hingga mencapai kaki Gunung Semeru.</p>
             </div>
         </div>
         <div class="carousel-item">
-            <img src="https://wallpaperaccess.com/full/1408398.jpg" class="d-block w-100" alt="..."
+            <img src="https://wheretogoo.s3.ap-southeast-1.amazonaws.com/Assets/Footer/2.jpg" class="d-block w-100" alt="..."
                 style="opacity: 0.5;height: 1080px;">
             <div class="carousel-caption d-none d-md-block" style="opacity: 1;">
-                <h5>BALON UDARA CAPPADOCIA</h5>
-                <p>Berlokasi di barat daya Kota Kayseri, Cappadocia merupakan tujuan wisata populer di Turki. Kota ini
-                    sangat kental dengan nilai sejarah yang unik. Cappadocia berarti tanah kuda yang indah. Sebab, kota
-                    ini punya banyak kuda liar yang berkeliaran di daerah tersebut sejak berabad-abad lalu. Selain kuda
-                    liar, salah satu ciri khas yang paling dikenali dari Cappadocia adalah balon udara warna-warni yang
-                    memeriahkan langit kota ini.</p>
+                <h5>Tanah Lot, Bali </h5>
+                <p>Tanah Lot merupakan tempat wisata religi dengan panorama pantai yang indah. Terdiri dari dua pura yang masing-masing berada di atas bongkahan batu karang dan tebing yang menjorok ke laut, 
+                    Tanah Lot tampak cantik bersahaja. Yang disebut dengan Pura Tanah Lot adalah pura yang berada di atas bongkahan batu karang di tengah pantai. Pura ini merupakan tempat pemujaan pada dewa laut, hal ini pula yang membuat pura ini dibangun di lokasi yang sangat dekat dengan laut. 
+                    Wisatawan tidak diperbolehkan masuk ke dalam bangunan pura untuk menjaga kesucian dan kesakralan tempat ibadah ini.</p>
             </div>
         </div>
         <div class="carousel-item">
@@ -60,14 +58,14 @@
 <div class="container-fluid" style="height: 500px;;">
     <div class="row align-items-center" style="width: 50%; margin-left: auto; margin-right: auto;">
         <div class="col" style="text-align: center; margin-top: 50px; color: white;">
-            <h2 style="height: 50px; color:black;">MARKIJAL by Fateh Tour</h2>
+            <h2 style="height: 50px; color:black;">Wheretogo.com</h2>
             <div class="logo" style="margin-top: 50px;">
-                <img src="https://i.postimg.cc/RCPDsjpd/markijal-logo.png" alt="" width="auto" height="250px">
+                <img src="https://wheretogoo.s3.ap-southeast-1.amazonaws.com/Assets/Logo1.png" alt="" width="auto" height="250px">
             </div>
             <div class=" info" style="margin-top: 50px; color:black;">
-                <p> MARKIJAL BY FATEH TOUR, adalah anak perusahaan FATEH TOUR yang berkantor pusat di kota Bekasi.
-                    Berdiri tahun 2017, perusahaan ini khusus bergerak di bidang Travel & Umrah. MARKIJAL memberikan
-                    kemudahan bagi user yang ingin berpergian ke mana pun yang ingin dituju.</p>
+                <p> WHERETOGO.com hadir untukmu traveller enthusiast yang ingin berpergian dengan aman dan nyaman. Nikmati perjalanan yang tidak akan kamu lupakan
+                    seumur hidupmu! Kami disini membantu mu untuk mewujudkan impian dan keinginan mu! Segera pesan paket perjalanan dan nikmati perjalanan terbaikmu!
+                </p>
             </div>
         </div>
     </div>

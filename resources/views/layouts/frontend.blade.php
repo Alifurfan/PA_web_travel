@@ -13,7 +13,7 @@
     {{-- navbar --}}
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container">
-            <a class="navbar-brand" href="{{ url('/') }}"><img src="https://i.postimg.cc/RCPDsjpd/markijal-logo.png"
+            <a class="navbar-brand" href="{{ url('/') }}"><img src="https://wheretogoo.s3.ap-southeast-1.amazonaws.com/Assets/Logo2.png"
                     alt="" style="max-width: 100px;"></a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                 aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -72,13 +72,11 @@
             <div class="row">
                 <!--Grid column-->
                 <div class="col-lg-6 col-md-12 mb-4 mb-md-0">
-                    <h5 class="text-uppercase">MARKIJAL by Fateh Tour</h5>
+                    <h5 class="text-uppercase">WHERETOGO.com</h5>
 
                     <p>
-                        </br> Markijal adalah Website yang mempunya induk perusahaan FATEH TOUR
-                        yang berlokasi di Bekasi, IND. MARKIJAL memberikann kemudahan bagi user
-                        yang ingin berpergian ke mana pun yang ingin dituju. Nikmati MARKIJAL
-                        dengan UI yang mudah dan menarik.
+                        </br> WHERETOGO.com hadir untukmu traveller enthusiast yang ingin berpergian dengan aman dan nyaman. Nikmati perjalanan yang tidak akan kamu lupakan
+                    seumur hidupmu! Kami disini membantu mu untuk mewujudkan impian dan keinginan mu! Segera pesan paket perjalanan dan nikmati perjalanan terbaikmu!
                     </p>
                 </div>
                 <!--Grid column-->
@@ -86,7 +84,7 @@
                 <!--Grid column-->
                 <div class="col-lg-6 col-md-12 mb-4 mb-md-0">
 
-                    <iframe src="https://www.youtube.com/embed/KhccjEwKsyU" title="YouTube video player" frameborder="0"
+                    <iframe src="https://www.youtube.com/embed/5s8fs_j2xlY" title="YouTube video player" frameborder="0"
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                         allowfullscreen></iframe>
 
@@ -104,33 +102,33 @@
                 <div class="row">
                     <div class="col-lg-2 col-md-12 mb-4 mb-md-0">
                         <div class="bg-image hover-overlay ripple shadow-1-strong rounded" data-ripple-color="light">
-                            <img src="https://wallpapercave.com/wp/wp9829655.jpg" class="w-100" />
+                            <img src="https://wheretogoo.s3.ap-southeast-1.amazonaws.com/Assets/Footer/6.jfif" class="w-100" />
                         </div>
                     </div>
                     <div class="col-lg-2 col-md-12 mb-4 mb-md-0">
                         <div class="bg-image hover-overlay ripple shadow-1-strong rounded" data-ripple-color="light">
-                            <img src="https://mdbcdn.b-cdn.net/img/new/fluid/city/111.webp" class="w-100" />
+                            <img src="https://wheretogoo.s3.ap-southeast-1.amazonaws.com/Assets/Footer/5.jpg" class="w-100" />
                         </div>
                     </div>
                     <div class="col-lg-2 col-md-12 mb-4 mb-md-0">
                         <div class="bg-image hover-overlay ripple shadow-1-strong rounded" data-ripple-color="light">
-                            <img src="https://travelumroh.co.id/wp-content/uploads/2021/03/10.-Ketahui-Perbedaan-Haji-dan-Umroh-Sebelum-Menunaikannya.jpg"
+                            <img src="https://wheretogoo.s3.ap-southeast-1.amazonaws.com/Assets/Footer/4.jpg"
                                 class="w-100" />
                         </div>
                     </div>
                     <div class="col-lg-2 col-md-12 mb-4 mb-md-0">
                         <div class="bg-image hover-overlay ripple shadow-1-strong rounded" data-ripple-color="light">
-                            <img src="https://mdbcdn.b-cdn.net/img/new/fluid/city/114.webp" class="w-100" />
+                            <img src="https://wheretogoo.s3.ap-southeast-1.amazonaws.com/Assets/Footer/3.jpg" class="w-100" />
                         </div>
                     </div>
                     <div class="col-lg-2 col-md-12 mb-4 mb-md-0">
                         <div class="bg-image hover-overlay ripple shadow-1-strong rounded" data-ripple-color="light">
-                            <img src="https://wallpaperaccess.com/full/1408398.jpg" class="w-100" />
+                            <img src="https://wheretogoo.s3.ap-southeast-1.amazonaws.com/Assets/Footer/2.jpg" class="w-100" />
                         </div>
                     </div>
                     <div class="col-lg-2 col-md-12 mb-4 mb-md-0">
                         <div class="bg-image hover-overlay ripple shadow-1-strong rounded" data-ripple-color="light">
-                            <img src="https://mdbcdn.b-cdn.net/img/new/fluid/city/116.webp" class="w-100" />
+                            <img src="https://wheretogoo.s3.ap-southeast-1.amazonaws.com/Assets/Footer/1.jpg" class="w-100" />
                             <a href="#!">
 
                             </a>
@@ -145,7 +143,7 @@
         <!-- Copyright -->
         <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
             © 2022 Copyright
-            <a class="text-white" href="#"><img src="https://i.postimg.cc/RCPDsjpd/markijal-logo.png" alt=""
+            <a class="text-white" href="#"><img src="https://wheretogoo.s3.ap-southeast-1.amazonaws.com/Assets/Logo2.png" alt=""
                     style="max-width: 100px;"></a>
         </div>
         <!-- Copyright -->
