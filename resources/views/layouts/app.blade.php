@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>MARKIJAL Web</title>
+    <title>Wheretogo</title>
 
     <script src="{{ asset('js/app.js') }}" defer></script>
 
@@ -21,7 +21,7 @@
         <nav class="navbar  navbar-expand-md navbar-light bg-white shadow-sm">
             <div class="container">
                 <a class="navbar-brand" href="{{ url('/') }}">
-                    <img src="https://i.postimg.cc/RCPDsjpd/markijal-logo.png" alt="" style="max-width: 100px;">
+                    <img src="https://wheretogoo.s3.ap-southeast-1.amazonaws.com/Assets/Logo2.png" alt="" style="max-width: 100px;">
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
